@@ -1,0 +1,14 @@
+{
+  "name": "tars",
+  "version": "1.0.0",
+  "description": "Artificial Intelligence Interstellar Assistant Program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Zachary Pedigo",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^5.12.2"
+  }
+}
